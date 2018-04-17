@@ -440,6 +440,7 @@
 				304A8E0B1C237B95008B1151 /* Products */,
 				304A8EB21C2765C4008B1151 /* Resources */,
 				30C56CCA1CACA973007AEF8F /* spine */,
+				52981D982085960500169211 /* luabindings */,
 				30324DA71CAFB84500601A64 /* src */,
 				30575A951C38C8ED0009C8A7 /* tvos */,
 			);
@@ -530,7 +531,13 @@
 				52C9C9911F4ED4CF00F5F87A /* VertexEffect.c */,
 			);
 			name = spine;
-			path = "external/spine-runtimes/spine-c/src/spine";
+			sourceTree = "<group>";
+		};
+		52981D982085960500169211 /* luabindings */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = luabindings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -915,7 +922,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_ASSIGN_ENUM = YES;
@@ -962,10 +969,21 @@
 				HEADER_SEARCH_PATHS = (
 					external/ouzel/ouzel,
 					"external/spine-runtimes/spine-c/spine-c/include",
+					external/sol2/single,
+					"external/LuaJIT-2.1.0-beta3/src",
 				);
+				LIBRARY_SEARCH_PATHS = "external/LuaJIT-2.1.0-beta3/src";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-lluajit",
+					"-pagezero_size",
+					10000,
+					"-image_base",
+					100000000,
+				);
+				OTHER_LIBTOOLFLAGS = "";
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -974,7 +992,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_ASSIGN_ENUM = YES;
@@ -1015,9 +1033,20 @@
 				HEADER_SEARCH_PATHS = (
 					external/ouzel/ouzel,
 					"external/spine-runtimes/spine-c/spine-c/include",
+					external/sol2/single,
+					"external/LuaJIT-2.1.0-beta3/src",
 				);
+				LIBRARY_SEARCH_PATHS = "external/LuaJIT-2.1.0-beta3/src";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = (
+					"-lluajit",
+					"-pagezero_size",
+					10000,
+					"-image_base",
+					100000000,
+				);
+				OTHER_LIBTOOLFLAGS = "";
 				SDKROOT = macosx;
 			};
 			name = Release;
