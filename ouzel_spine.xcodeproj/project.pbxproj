@@ -154,6 +154,57 @@
 		30FC86D51DF3C1D2003E051B /* VertexAttachment.c in Sources */ = {isa = PBXBuildFile; fileRef = 30FC86771DF3C1D2003E051B /* VertexAttachment.c */; };
 		30FC86D61DF3C1D2003E051B /* VertexAttachment.c in Sources */ = {isa = PBXBuildFile; fileRef = 30FC86771DF3C1D2003E051B /* VertexAttachment.c */; };
 		30FC86D71DF3C1D2003E051B /* VertexAttachment.c in Sources */ = {isa = PBXBuildFile; fileRef = 30FC86771DF3C1D2003E051B /* VertexAttachment.c */; };
+		521F87D72086EBA300F8C286 /* lb_Component.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87D52086EBA300F8C286 /* lb_Component.cpp */; };
+		521F87D82086EBA300F8C286 /* lb_Component.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87D52086EBA300F8C286 /* lb_Component.cpp */; };
+		521F87D92086EBA300F8C286 /* lb_Component.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87D52086EBA300F8C286 /* lb_Component.cpp */; };
+		521F87DF2086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87DD2086ED7600F8C286 /* lb_ActorContainer.cpp */; };
+		521F87E02086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87DD2086ED7600F8C286 /* lb_ActorContainer.cpp */; };
+		521F87E12086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87DD2086ED7600F8C286 /* lb_ActorContainer.cpp */; };
+		521F87E42086EE8100F8C286 /* lb_SceneManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E22086EE8100F8C286 /* lb_SceneManager.cpp */; };
+		521F87E52086EE8100F8C286 /* lb_SceneManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E22086EE8100F8C286 /* lb_SceneManager.cpp */; };
+		521F87E62086EE8100F8C286 /* lb_SceneManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E22086EE8100F8C286 /* lb_SceneManager.cpp */; };
+		521F87E92086F0CF00F8C286 /* lb_Sprite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E72086F0CF00F8C286 /* lb_Sprite.cpp */; };
+		521F87EA2086F0CF00F8C286 /* lb_Sprite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E72086F0CF00F8C286 /* lb_Sprite.cpp */; };
+		521F87EB2086F0CF00F8C286 /* lb_Sprite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87E72086F0CF00F8C286 /* lb_Sprite.cpp */; };
+		521F87EE2086F68000F8C286 /* lb_Vector2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87EC2086F68000F8C286 /* lb_Vector2.cpp */; };
+		521F87EF2086F68000F8C286 /* lb_Vector2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87EC2086F68000F8C286 /* lb_Vector2.cpp */; };
+		521F87F02086F68000F8C286 /* lb_Vector2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 521F87EC2086F68000F8C286 /* lb_Vector2.cpp */; };
+		521F87F32086F80E00F8C286 /* run.json in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F12086F80D00F8C286 /* run.json */; };
+		521F87F42086F80E00F8C286 /* run.json in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F12086F80D00F8C286 /* run.json */; };
+		521F87F52086F80E00F8C286 /* run.json in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F12086F80D00F8C286 /* run.json */; };
+		521F87F62086F80E00F8C286 /* run.png in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F22086F80E00F8C286 /* run.png */; };
+		521F87F72086F80E00F8C286 /* run.png in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F22086F80E00F8C286 /* run.png */; };
+		521F87F82086F80E00F8C286 /* run.png in Resources */ = {isa = PBXBuildFile; fileRef = 521F87F22086F80E00F8C286 /* run.png */; };
+		52778E582088390D00859B45 /* lb_Vector3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52778E562088390D00859B45 /* lb_Vector3.cpp */; };
+		52778E592088390D00859B45 /* lb_Vector3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52778E562088390D00859B45 /* lb_Vector3.cpp */; };
+		52778E5A2088390D00859B45 /* lb_Vector3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52778E562088390D00859B45 /* lb_Vector3.cpp */; };
+		52981D9B2085979400169211 /* lb_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D992085979400169211 /* lb_main.cpp */; };
+		52981D9C2085979400169211 /* lb_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D992085979400169211 /* lb_main.cpp */; };
+		52981D9D2085979400169211 /* lb_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D992085979400169211 /* lb_main.cpp */; };
+		52981DA0208598E100169211 /* lb_Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D9E208598E100169211 /* lb_Camera.cpp */; };
+		52981DA1208598E100169211 /* lb_Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D9E208598E100169211 /* lb_Camera.cpp */; };
+		52981DA2208598E100169211 /* lb_Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981D9E208598E100169211 /* lb_Camera.cpp */; };
+		52981DA52085EBB500169211 /* lb_Layer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA32085EBB500169211 /* lb_Layer.cpp */; };
+		52981DA62085EBB500169211 /* lb_Layer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA32085EBB500169211 /* lb_Layer.cpp */; };
+		52981DA72085EBB500169211 /* lb_Layer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA32085EBB500169211 /* lb_Layer.cpp */; };
+		52981DAA2085F30300169211 /* lb_Actor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA82085F30300169211 /* lb_Actor.cpp */; };
+		52981DAB2085F30300169211 /* lb_Actor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA82085F30300169211 /* lb_Actor.cpp */; };
+		52981DAC2085F30300169211 /* lb_Actor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DA82085F30300169211 /* lb_Actor.cpp */; };
+		52981DAF2085FB4900169211 /* lb_Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DAD2085FB4900169211 /* lb_Scene.cpp */; };
+		52981DB02085FB4900169211 /* lb_Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DAD2085FB4900169211 /* lb_Scene.cpp */; };
+		52981DB12085FB4900169211 /* lb_Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DAD2085FB4900169211 /* lb_Scene.cpp */; };
+		52981DB42085FE5100169211 /* main.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB22085FE5100169211 /* main.lua */; };
+		52981DB52085FE5100169211 /* main.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB22085FE5100169211 /* main.lua */; };
+		52981DB62085FE5100169211 /* main.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB22085FE5100169211 /* main.lua */; };
+		52981DB72085FE5100169211 /* dump.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB32085FE5100169211 /* dump.lua */; };
+		52981DB82085FE5100169211 /* dump.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB32085FE5100169211 /* dump.lua */; };
+		52981DB92085FE5100169211 /* dump.lua in Resources */ = {isa = PBXBuildFile; fileRef = 52981DB32085FE5100169211 /* dump.lua */; };
+		52981DBC2086142400169211 /* lb_Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBA2086142400169211 /* lb_Engine.cpp */; };
+		52981DBD2086142400169211 /* lb_Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBA2086142400169211 /* lb_Engine.cpp */; };
+		52981DBE2086142400169211 /* lb_Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBA2086142400169211 /* lb_Engine.cpp */; };
+		52981DC12086166100169211 /* lb_FileSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBF2086166100169211 /* lb_FileSystem.cpp */; };
+		52981DC22086166100169211 /* lb_FileSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBF2086166100169211 /* lb_FileSystem.cpp */; };
+		52981DC32086166100169211 /* lb_FileSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52981DBF2086166100169211 /* lb_FileSystem.cpp */; };
 		52C9C9851F4ECF8400F5F87A /* spineboy.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 52C9C9821F4ECF8400F5F87A /* spineboy.atlas */; };
 		52C9C9861F4ECF8400F5F87A /* spineboy.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 52C9C9821F4ECF8400F5F87A /* spineboy.atlas */; };
 		52C9C9871F4ECF8400F5F87A /* spineboy.png in Resources */ = {isa = PBXBuildFile; fileRef = 52C9C9831F4ECF8400F5F87A /* spineboy.png */; };
@@ -286,6 +337,36 @@
 		30FC86751DF3C1D2003E051B /* TransformConstraint.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = TransformConstraint.c; path = "external/spine-runtimes/spine-c/spine-c/src/spine/TransformConstraint.c"; sourceTree = SOURCE_ROOT; };
 		30FC86761DF3C1D2003E051B /* TransformConstraintData.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = TransformConstraintData.c; path = "external/spine-runtimes/spine-c/spine-c/src/spine/TransformConstraintData.c"; sourceTree = SOURCE_ROOT; };
 		30FC86771DF3C1D2003E051B /* VertexAttachment.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = VertexAttachment.c; path = "external/spine-runtimes/spine-c/spine-c/src/spine/VertexAttachment.c"; sourceTree = SOURCE_ROOT; };
+		521F87D52086EBA300F8C286 /* lb_Component.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Component.cpp; sourceTree = "<group>"; };
+		521F87D62086EBA300F8C286 /* lb_Component.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Component.hpp; sourceTree = "<group>"; };
+		521F87DD2086ED7600F8C286 /* lb_ActorContainer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_ActorContainer.cpp; sourceTree = "<group>"; };
+		521F87DE2086ED7600F8C286 /* lb_ActorContainer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_ActorContainer.hpp; sourceTree = "<group>"; };
+		521F87E22086EE8100F8C286 /* lb_SceneManager.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_SceneManager.cpp; sourceTree = "<group>"; };
+		521F87E32086EE8100F8C286 /* lb_SceneManager.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_SceneManager.hpp; sourceTree = "<group>"; };
+		521F87E72086F0CF00F8C286 /* lb_Sprite.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Sprite.cpp; sourceTree = "<group>"; };
+		521F87E82086F0CF00F8C286 /* lb_Sprite.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Sprite.hpp; sourceTree = "<group>"; };
+		521F87EC2086F68000F8C286 /* lb_Vector2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Vector2.cpp; sourceTree = "<group>"; };
+		521F87ED2086F68000F8C286 /* lb_Vector2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Vector2.hpp; sourceTree = "<group>"; };
+		521F87F12086F80D00F8C286 /* run.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = run.json; sourceTree = "<group>"; };
+		521F87F22086F80E00F8C286 /* run.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run.png; sourceTree = "<group>"; };
+		52778E562088390D00859B45 /* lb_Vector3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Vector3.cpp; sourceTree = "<group>"; };
+		52778E572088390D00859B45 /* lb_Vector3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Vector3.hpp; sourceTree = "<group>"; };
+		52981D992085979400169211 /* lb_main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_main.cpp; sourceTree = "<group>"; };
+		52981D9A2085979400169211 /* lb_main.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_main.hpp; sourceTree = "<group>"; };
+		52981D9E208598E100169211 /* lb_Camera.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Camera.cpp; sourceTree = "<group>"; };
+		52981D9F208598E100169211 /* lb_Camera.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Camera.hpp; sourceTree = "<group>"; };
+		52981DA32085EBB500169211 /* lb_Layer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Layer.cpp; sourceTree = "<group>"; };
+		52981DA42085EBB500169211 /* lb_Layer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Layer.hpp; sourceTree = "<group>"; };
+		52981DA82085F30300169211 /* lb_Actor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Actor.cpp; sourceTree = "<group>"; };
+		52981DA92085F30300169211 /* lb_Actor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Actor.hpp; sourceTree = "<group>"; };
+		52981DAD2085FB4900169211 /* lb_Scene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Scene.cpp; sourceTree = "<group>"; };
+		52981DAE2085FB4900169211 /* lb_Scene.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Scene.hpp; sourceTree = "<group>"; };
+		52981DB22085FE5100169211 /* main.lua */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.lua; sourceTree = "<group>"; };
+		52981DB32085FE5100169211 /* dump.lua */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dump.lua; sourceTree = "<group>"; };
+		52981DBA2086142400169211 /* lb_Engine.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_Engine.cpp; sourceTree = "<group>"; };
+		52981DBB2086142400169211 /* lb_Engine.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_Engine.hpp; sourceTree = "<group>"; };
+		52981DBF2086166100169211 /* lb_FileSystem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lb_FileSystem.cpp; sourceTree = "<group>"; };
+		52981DC02086166100169211 /* lb_FileSystem.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = lb_FileSystem.hpp; sourceTree = "<group>"; };
 		52C9C9821F4ECF8400F5F87A /* spineboy.atlas */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = spineboy.atlas; sourceTree = "<group>"; };
 		52C9C9831F4ECF8400F5F87A /* spineboy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spineboy.png; sourceTree = "<group>"; };
 		52C9C9841F4ECF8400F5F87A /* spineboy.skel */ = {isa = PBXFileReference; lastKnownFileType = file; path = spineboy.skel; sourceTree = "<group>"; };
@@ -468,6 +549,10 @@
 		304A8EB21C2765C4008B1151 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				521F87F12086F80D00F8C286 /* run.json */,
+				521F87F22086F80E00F8C286 /* run.png */,
+				52981DB32085FE5100169211 /* dump.lua */,
+				52981DB22085FE5100169211 /* main.lua */,
 				52C9C9821F4ECF8400F5F87A /* spineboy.atlas */,
 				52C9C9831F4ECF8400F5F87A /* spineboy.png */,
 				52C9C9841F4ECF8400F5F87A /* spineboy.skel */,
@@ -536,6 +621,32 @@
 		52981D982085960500169211 /* luabindings */ = {
 			isa = PBXGroup;
 			children = (
+				52981D992085979400169211 /* lb_main.cpp */,
+				52981D9A2085979400169211 /* lb_main.hpp */,
+				52981D9E208598E100169211 /* lb_Camera.cpp */,
+				52981D9F208598E100169211 /* lb_Camera.hpp */,
+				52981DA32085EBB500169211 /* lb_Layer.cpp */,
+				52981DA42085EBB500169211 /* lb_Layer.hpp */,
+				52981DA82085F30300169211 /* lb_Actor.cpp */,
+				52981DA92085F30300169211 /* lb_Actor.hpp */,
+				52981DAD2085FB4900169211 /* lb_Scene.cpp */,
+				52981DAE2085FB4900169211 /* lb_Scene.hpp */,
+				52981DBA2086142400169211 /* lb_Engine.cpp */,
+				52981DBB2086142400169211 /* lb_Engine.hpp */,
+				52981DBF2086166100169211 /* lb_FileSystem.cpp */,
+				52981DC02086166100169211 /* lb_FileSystem.hpp */,
+				521F87D52086EBA300F8C286 /* lb_Component.cpp */,
+				521F87D62086EBA300F8C286 /* lb_Component.hpp */,
+				521F87DD2086ED7600F8C286 /* lb_ActorContainer.cpp */,
+				521F87DE2086ED7600F8C286 /* lb_ActorContainer.hpp */,
+				521F87E22086EE8100F8C286 /* lb_SceneManager.cpp */,
+				521F87E32086EE8100F8C286 /* lb_SceneManager.hpp */,
+				521F87E72086F0CF00F8C286 /* lb_Sprite.cpp */,
+				521F87E82086F0CF00F8C286 /* lb_Sprite.hpp */,
+				521F87EC2086F68000F8C286 /* lb_Vector2.cpp */,
+				521F87ED2086F68000F8C286 /* lb_Vector2.hpp */,
+				52778E562088390D00859B45 /* lb_Vector3.cpp */,
+				52778E572088390D00859B45 /* lb_Vector3.hpp */,
 			);
 			path = luabindings;
 			sourceTree = "<group>";
@@ -600,7 +711,7 @@
 		304A8E021C237B95008B1151 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Bool Games";
 				TargetAttributes = {
 					303B760C1C34CFE300FEDE92 = {
@@ -667,10 +778,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				52C9C98A1F4ECF8400F5F87A /* spineboy.skel in Resources */,
+				52981DB52085FE5100169211 /* main.lua in Resources */,
 				52C9C9881F4ECF8400F5F87A /* spineboy.png in Resources */,
+				521F87F72086F80E00F8C286 /* run.png in Resources */,
 				52C9C9861F4ECF8400F5F87A /* spineboy.atlas in Resources */,
 				303647A11C418E4C0024DB5B /* Assets.xcassets in Resources */,
+				521F87F42086F80E00F8C286 /* run.json in Resources */,
 				3011E1D01F008BBE00CB1DDC /* settings.ini in Resources */,
+				52981DB82085FE5100169211 /* dump.lua in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -679,10 +794,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				309C3D3F1F6ADB050027A64C /* spineboy.png in Resources */,
+				52981DB62085FE5100169211 /* main.lua in Resources */,
 				303647A31C418E7C0024DB5B /* Assets.xcassets in Resources */,
+				521F87F82086F80E00F8C286 /* run.png in Resources */,
 				309C3D401F6ADB050027A64C /* spineboy.skel in Resources */,
 				3011E1D11F008BBE00CB1DDC /* settings.ini in Resources */,
+				521F87F52086F80E00F8C286 /* run.json in Resources */,
 				309C3D3E1F6ADB050027A64C /* spineboy.atlas in Resources */,
+				52981DB92085FE5100169211 /* dump.lua in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -691,10 +810,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				52C9C9891F4ECF8400F5F87A /* spineboy.skel in Resources */,
+				52981DB42085FE5100169211 /* main.lua in Resources */,
 				52C9C9871F4ECF8400F5F87A /* spineboy.png in Resources */,
+				521F87F62086F80E00F8C286 /* run.png in Resources */,
 				52C9C9851F4ECF8400F5F87A /* spineboy.atlas in Resources */,
 				303647A21C418E790024DB5B /* Assets.xcassets in Resources */,
+				521F87F32086F80E00F8C286 /* run.json in Resources */,
 				3011E1CF1F008BBE00CB1DDC /* settings.ini in Resources */,
+				52981DB72085FE5100169211 /* dump.lua in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -708,31 +831,41 @@
 				30FC86B21DF3C1D2003E051B /* PathConstraintData.c in Sources */,
 				30FC86821DF3C1D2003E051B /* Atlas.c in Sources */,
 				30FC86881DF3C1D2003E051B /* Attachment.c in Sources */,
+				521F87EF2086F68000F8C286 /* lb_Vector2.cpp in Sources */,
+				521F87D82086EBA300F8C286 /* lb_Component.cpp in Sources */,
 				52C9C9931F4ED4CF00F5F87A /* Array.c in Sources */,
+				52981DB02085FB4900169211 /* lb_Scene.cpp in Sources */,
 				30FC86D31DF3C1D2003E051B /* TransformConstraintData.c in Sources */,
 				30FC867F1DF3C1D2003E051B /* AnimationStateData.c in Sources */,
+				52778E592088390D00859B45 /* lb_Vector3.cpp in Sources */,
 				52C9C99D1F4ED4CF00F5F87A /* Triangulator.c in Sources */,
 				30FC86C11DF3C1D2003E051B /* SkeletonData.c in Sources */,
 				30FC86CA1DF3C1D2003E051B /* Slot.c in Sources */,
 				30FC867C1DF3C1D2003E051B /* AnimationState.c in Sources */,
 				30FC86BB1DF3C1D2003E051B /* SkeletonBinary.c in Sources */,
 				30FC86A31DF3C1D2003E051B /* IkConstraintData.c in Sources */,
+				521F87EA2086F0CF00F8C286 /* lb_Sprite.cpp in Sources */,
 				30FC86BE1DF3C1D2003E051B /* SkeletonBounds.c in Sources */,
+				52981D9C2085979400169211 /* lb_main.cpp in Sources */,
 				30FC869A1DF3C1D2003E051B /* EventData.c in Sources */,
 				30FC86B81DF3C1D2003E051B /* Skeleton.c in Sources */,
+				52981DBD2086142400169211 /* lb_Engine.cpp in Sources */,
 				30FC86851DF3C1D2003E051B /* AtlasAttachmentLoader.c in Sources */,
 				30FC868B1DF3C1D2003E051B /* AttachmentLoader.c in Sources */,
 				30FC86A91DF3C1D2003E051B /* MeshAttachment.c in Sources */,
 				30FC86911DF3C1D2003E051B /* BoneData.c in Sources */,
 				30FC86941DF3C1D2003E051B /* BoundingBoxAttachment.c in Sources */,
+				521F87E02086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */,
 				30FC86C71DF3C1D2003E051B /* Skin.c in Sources */,
 				30FC868E1DF3C1D2003E051B /* Bone.c in Sources */,
+				52981DA62085EBB500169211 /* lb_Layer.cpp in Sources */,
 				52C9C9951F4ED4CF00F5F87A /* ClippingAttachment.c in Sources */,
 				30FC869D1DF3C1D2003E051B /* extension.c in Sources */,
 				52C9C9971F4ED4CF00F5F87A /* Color.c in Sources */,
 				303B760E1C34CFE300FEDE92 /* SpineSample.cpp in Sources */,
 				30FC86AF1DF3C1D2003E051B /* PathConstraint.c in Sources */,
 				30FC86971DF3C1D2003E051B /* Event.c in Sources */,
+				521F87E52086EE8100F8C286 /* lb_SceneManager.cpp in Sources */,
 				52C9C99F1F4ED4CF00F5F87A /* VertexEffect.c in Sources */,
 				30FC86A01DF3C1D2003E051B /* IkConstraint.c in Sources */,
 				30FC86AC1DF3C1D2003E051B /* PathAttachment.c in Sources */,
@@ -740,12 +873,15 @@
 				303B760F1C34CFE300FEDE92 /* main.cpp in Sources */,
 				30FC86D01DF3C1D2003E051B /* TransformConstraint.c in Sources */,
 				30FC86CD1DF3C1D2003E051B /* SlotData.c in Sources */,
+				52981DAB2085F30300169211 /* lb_Actor.cpp in Sources */,
+				52981DA1208598E100169211 /* lb_Camera.cpp in Sources */,
 				30FC86C41DF3C1D2003E051B /* SkeletonJson.c in Sources */,
 				52C9C9991F4ED4CF00F5F87A /* PointAttachment.c in Sources */,
 				30FC86791DF3C1D2003E051B /* Animation.c in Sources */,
 				30FC86A61DF3C1D2003E051B /* Json.c in Sources */,
 				30AFE17B1CB7064800478AA2 /* SpineDrawable.cpp in Sources */,
 				52C9C99B1F4ED4CF00F5F87A /* SkeletonClipping.c in Sources */,
+				52981DC22086166100169211 /* lb_FileSystem.cpp in Sources */,
 				30FC86D61DF3C1D2003E051B /* VertexAttachment.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -754,17 +890,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52981DB12085FB4900169211 /* lb_Scene.cpp in Sources */,
 				30FC86B31DF3C1D2003E051B /* PathConstraintData.c in Sources */,
+				52778E5A2088390D00859B45 /* lb_Vector3.cpp in Sources */,
 				30FC86831DF3C1D2003E051B /* Atlas.c in Sources */,
 				30FC86891DF3C1D2003E051B /* Attachment.c in Sources */,
 				30FC86D41DF3C1D2003E051B /* TransformConstraintData.c in Sources */,
+				52981DBE2086142400169211 /* lb_Engine.cpp in Sources */,
 				30FC86801DF3C1D2003E051B /* AnimationStateData.c in Sources */,
+				521F87F02086F68000F8C286 /* lb_Vector2.cpp in Sources */,
 				30FC86C21DF3C1D2003E051B /* SkeletonData.c in Sources */,
 				30FC86CB1DF3C1D2003E051B /* Slot.c in Sources */,
 				30FC867D1DF3C1D2003E051B /* AnimationState.c in Sources */,
 				30FC86BC1DF3C1D2003E051B /* SkeletonBinary.c in Sources */,
 				30FC86A41DF3C1D2003E051B /* IkConstraintData.c in Sources */,
+				52981DC32086166100169211 /* lb_FileSystem.cpp in Sources */,
+				52981D9D2085979400169211 /* lb_main.cpp in Sources */,
 				30FC86BF1DF3C1D2003E051B /* SkeletonBounds.c in Sources */,
+				52981DA2208598E100169211 /* lb_Camera.cpp in Sources */,
+				521F87EB2086F0CF00F8C286 /* lb_Sprite.cpp in Sources */,
 				30FC869B1DF3C1D2003E051B /* EventData.c in Sources */,
 				30FC86B91DF3C1D2003E051B /* Skeleton.c in Sources */,
 				30FC86861DF3C1D2003E051B /* AtlasAttachmentLoader.c in Sources */,
@@ -773,7 +917,9 @@
 				30FC86921DF3C1D2003E051B /* BoneData.c in Sources */,
 				30FC86951DF3C1D2003E051B /* BoundingBoxAttachment.c in Sources */,
 				30FC86C81DF3C1D2003E051B /* Skin.c in Sources */,
+				52981DA72085EBB500169211 /* lb_Layer.cpp in Sources */,
 				30FC868F1DF3C1D2003E051B /* Bone.c in Sources */,
+				521F87D92086EBA300F8C286 /* lb_Component.cpp in Sources */,
 				30FC869E1DF3C1D2003E051B /* extension.c in Sources */,
 				303B768D1C355AA400FEDE92 /* SpineSample.cpp in Sources */,
 				30FC86B01DF3C1D2003E051B /* PathConstraint.c in Sources */,
@@ -782,6 +928,9 @@
 				30FC86AD1DF3C1D2003E051B /* PathAttachment.c in Sources */,
 				30FC86B61DF3C1D2003E051B /* RegionAttachment.c in Sources */,
 				303B768E1C355AA400FEDE92 /* main.cpp in Sources */,
+				521F87E62086EE8100F8C286 /* lb_SceneManager.cpp in Sources */,
+				521F87E12086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */,
+				52981DAC2085F30300169211 /* lb_Actor.cpp in Sources */,
 				30FC86D11DF3C1D2003E051B /* TransformConstraint.c in Sources */,
 				30FC86CE1DF3C1D2003E051B /* SlotData.c in Sources */,
 				30FC86C51DF3C1D2003E051B /* SkeletonJson.c in Sources */,
@@ -799,31 +948,41 @@
 				30FC86B11DF3C1D2003E051B /* PathConstraintData.c in Sources */,
 				30FC86811DF3C1D2003E051B /* Atlas.c in Sources */,
 				30FC86871DF3C1D2003E051B /* Attachment.c in Sources */,
+				521F87EE2086F68000F8C286 /* lb_Vector2.cpp in Sources */,
+				521F87D72086EBA300F8C286 /* lb_Component.cpp in Sources */,
 				52C9C9921F4ED4CF00F5F87A /* Array.c in Sources */,
+				52981DAF2085FB4900169211 /* lb_Scene.cpp in Sources */,
 				30FC86D21DF3C1D2003E051B /* TransformConstraintData.c in Sources */,
 				30FC867E1DF3C1D2003E051B /* AnimationStateData.c in Sources */,
+				52778E582088390D00859B45 /* lb_Vector3.cpp in Sources */,
 				52C9C99C1F4ED4CF00F5F87A /* Triangulator.c in Sources */,
 				30FC86C01DF3C1D2003E051B /* SkeletonData.c in Sources */,
 				30FC86C91DF3C1D2003E051B /* Slot.c in Sources */,
 				30FC867B1DF3C1D2003E051B /* AnimationState.c in Sources */,
 				30FC86BA1DF3C1D2003E051B /* SkeletonBinary.c in Sources */,
 				30FC86A21DF3C1D2003E051B /* IkConstraintData.c in Sources */,
+				521F87E92086F0CF00F8C286 /* lb_Sprite.cpp in Sources */,
 				30FC86BD1DF3C1D2003E051B /* SkeletonBounds.c in Sources */,
+				52981D9B2085979400169211 /* lb_main.cpp in Sources */,
 				30FC86991DF3C1D2003E051B /* EventData.c in Sources */,
 				30FC86B71DF3C1D2003E051B /* Skeleton.c in Sources */,
+				52981DBC2086142400169211 /* lb_Engine.cpp in Sources */,
 				30FC86841DF3C1D2003E051B /* AtlasAttachmentLoader.c in Sources */,
 				30FC868A1DF3C1D2003E051B /* AttachmentLoader.c in Sources */,
 				30FC86A81DF3C1D2003E051B /* MeshAttachment.c in Sources */,
 				30FC86901DF3C1D2003E051B /* BoneData.c in Sources */,
 				30FC86931DF3C1D2003E051B /* BoundingBoxAttachment.c in Sources */,
+				521F87DF2086ED7600F8C286 /* lb_ActorContainer.cpp in Sources */,
 				30FC86C61DF3C1D2003E051B /* Skin.c in Sources */,
 				30FC868D1DF3C1D2003E051B /* Bone.c in Sources */,
+				52981DA52085EBB500169211 /* lb_Layer.cpp in Sources */,
 				52C9C9941F4ED4CF00F5F87A /* ClippingAttachment.c in Sources */,
 				30FC869C1DF3C1D2003E051B /* extension.c in Sources */,
 				52C9C9961F4ED4CF00F5F87A /* Color.c in Sources */,
 				304A8EAA1C27429A008B1151 /* SpineSample.cpp in Sources */,
 				30FC86AE1DF3C1D2003E051B /* PathConstraint.c in Sources */,
 				30FC86961DF3C1D2003E051B /* Event.c in Sources */,
+				521F87E42086EE8100F8C286 /* lb_SceneManager.cpp in Sources */,
 				52C9C99E1F4ED4CF00F5F87A /* VertexEffect.c in Sources */,
 				30FC869F1DF3C1D2003E051B /* IkConstraint.c in Sources */,
 				30FC86AB1DF3C1D2003E051B /* PathAttachment.c in Sources */,
@@ -831,12 +990,15 @@
 				303B751A1C29ED4200FEDE92 /* main.cpp in Sources */,
 				30FC86CF1DF3C1D2003E051B /* TransformConstraint.c in Sources */,
 				30FC86CC1DF3C1D2003E051B /* SlotData.c in Sources */,
+				52981DAA2085F30300169211 /* lb_Actor.cpp in Sources */,
+				52981DA0208598E100169211 /* lb_Camera.cpp in Sources */,
 				30FC86C31DF3C1D2003E051B /* SkeletonJson.c in Sources */,
 				52C9C9981F4ED4CF00F5F87A /* PointAttachment.c in Sources */,
 				30FC86781DF3C1D2003E051B /* Animation.c in Sources */,
 				30FC86A51DF3C1D2003E051B /* Json.c in Sources */,
 				30AFE1771CB7064700478AA2 /* SpineDrawable.cpp in Sources */,
 				52C9C99A1F4ED4CF00F5F87A /* SkeletonClipping.c in Sources */,
+				52981DC12086166100169211 /* lb_FileSystem.cpp in Sources */,
 				30FC86D51DF3C1D2003E051B /* VertexAttachment.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -926,8 +1088,11 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_ASSIGN_ENUM = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
@@ -935,7 +1100,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NULLABLE_TO_NONNULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
@@ -996,8 +1164,11 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_ASSIGN_ENUM = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
@@ -1005,7 +1176,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NULLABLE_TO_NONNULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
